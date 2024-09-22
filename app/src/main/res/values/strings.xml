@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Aplikasi Inventaris</string>
+    <string name="attention">Pikir Dulu</string>
+    <string name="back_button">Kembali</string>
+    <string name="delete">Hapus</string>
+    <string name="delete_question">Apakah Kamu Yakin Ingin Menghapus Item ini?</string>
+    <string name="no_item_description">Ups!\nTidak Ada Item Dalam Inventaris.\nKlik + untuk menambahkan item.</string>
+    <string name="edit_item_title">Edit Item</string>
+    <string name="item">Item</string>
+    <string name="item_detail_title">Detail Item</string>
+    <string name="item_entry_title">Tambah Item</string>
+    <string name="item_name_req">Nama Item*</string>
+    <string name="item_price_req">Harga Item*</string>
+    <string name="no">Tidak</string>
+    <string name="price">Harga</string>
+    <string name="quantity_in_stock">Jumlah Dalam Stok</string>
+    <string name="in_stock">%d dalam stok</string>
+    <string name="quantity_req">Jumlah Dalam Stok*</string>
+    <string name="save_action">Simpan</string>
+    <string name="sell">Jual</string>
+    <string name="yes">Ya</string>
+    <string name="required_fields">*field yang diperlukan</string>
+</resources>
